@@ -2,6 +2,10 @@
 
 這是 ESP32 感測器與顯示器實習專案，從 GPIO、LED、按鍵與類比輸入開始，逐步延伸到 DHT 溫濕度、光線感測、Wi‑Fi、HTTP API、雲端服務、MQTT、ILI9225 TFT 與 2.9 吋三色電子紙。
 
+## 展示網站
+
+本專案提供一個以 GitHub Pages 發布的展示網站，集中呈現系統概念、硬體成果照片、電子紙畫面與範例分類：**[開啟展示網站](https://youjunjer.github.io/esp32-sensors-mqtt-tft-epaper-eric/)**。
+
 ## 專案成果與範例照片
 
 系統架構與資料流程：
