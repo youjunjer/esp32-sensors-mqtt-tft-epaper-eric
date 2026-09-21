@@ -1,0 +1,18 @@
+# Arduino CLI/build outputs and local tool caches
+_build_*/
+_arduino_cli/
+**/build/
+**/build-*/
+
+# Local credentials and machine-specific configuration
+*.local.h
+secrets.h
+credentials.h
+.env
+
+# IDE/editor and OS files
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+desktop.ini
